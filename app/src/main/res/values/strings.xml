@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QR Code Scanner &amp; Generator</string>
+    <string name="website_link">Website Link</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="sms">SMS</string>
+    <string name="wifi_setting">Wifi Setting.</string>
+    <string name="text">TEXT</string>
+    <string name="contact_card">Contact Card</string>
+    <string name="show_available_wi_fi_networks">Show Available Wi-Fi Networks</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="send_email">Send Email</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="visit_website">Visit Website</string>
+    <string name="generate_qr_code">Generate QR Code</string>
+    <string name="alertdialog_msg">You have not scanned any QR codes yet.</string>
+    <string name="generate_qr_codes">Generate QR Codes</string>
+
+
+</resources>
